@@ -1,0 +1,5 @@
+monday:present
+tuesday:present
+wednesday:present
+thursday:absent
+friday:present
